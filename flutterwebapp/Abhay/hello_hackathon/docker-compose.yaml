@@ -1,1 +1,9 @@
-# TODO Docker compose setup
+# Version
+version: "3.0"
+services:
+  hello_hackathon:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 3200:80
