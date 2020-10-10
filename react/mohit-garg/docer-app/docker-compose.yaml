@@ -1,0 +1,9 @@
+version: '3'
+services:
+  react-con:
+    build: 
+        context: .
+    image: react-img
+    container_name: react-con
+    ports: 
+        - "8090:8090"
