@@ -1,0 +1,9 @@
+version: '3.0'
+services:
+  hacktober_app:
+    container_name: flutter-con
+    dockerfile: DockerFile
+    ports:
+      - 3200:00
+    build:
+      context: ./
