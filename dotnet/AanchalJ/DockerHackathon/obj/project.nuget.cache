@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LFMqRec++AdG70ST36evTsS90yXMiYELNTK6BA8JOKqwq4htGy30s+QPTsxz+q532Rs03Q/5jg1brxFW8ZjggA==",
+  "success": true,
+  "projectFilePath": "D:\\dockerHackathon\\dotnet\\AanchalJ\\DockerHackathon\\DockerHackathon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aanch\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
