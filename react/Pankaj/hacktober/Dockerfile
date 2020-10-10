@@ -1,7 +1,7 @@
 # pull official base image
 FROM node:12.18.4-alpine3.11
 
-MAINTAINER pankaj
+MAINTAINER pankaj.rajwani@fiftyfivetech.io
 # set working directory
 WORKDIR /app
  
