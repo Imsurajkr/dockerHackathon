@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  dockerhackathon:
+    image: ${DOCKER_REGISTRY-}dockerhackathon
+    build:
+      context: .
+      dockerfile: Dockerfile
