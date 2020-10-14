@@ -66,3 +66,15 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+### Docker file for development
+
+This project contains two files for docker containers
+1. Dockerfile.dev
+2. Dockerfile(for production)
+
+and same we have two sepreate docker-compose files
+1. docker-compose-local.yml
+2. docker-compose.yaml
+

@@ -1,0 +1,11 @@
+version: '3'
+services: 
+    react-con:
+        build: 
+            context: .
+            dockerfile: Dockerfile.dev
+        command: npm run start
+        container_name: react-con
+        ports:
+            - "3000:3000"
+        stdin_open: true
