@@ -5,4 +5,8 @@ def sum_two_num(num1, num2):
     return num1 + num2
 
 
-print(sum_two_num(10,20))
+def multiply_two_num(num1, num2):
+    return num1 * num2
+
+
+print(sum_two_num(10, 20))
